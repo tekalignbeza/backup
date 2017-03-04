@@ -1,0 +1,4 @@
+com\mybot\integration\user\UserDaoImp.class
+com\mybot\integration\user\UserDao.class
+com\mybot\integration\base\GenericDao.class
+com\mybot\integration\base\GenericDaoImp.class

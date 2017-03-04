@@ -1,0 +1,6 @@
+com\mybot\domain\search\WebSearchResponse.class
+com\mybot\domain\search\Event.class
+com\mybot\domain\search\WebSearchRequest.class
+com\mybot\domain\user\Address.class
+com\mybot\domain\base\CoreEntity.class
+com\mybot\domain\user\User.class

@@ -1,0 +1,6 @@
+com\mybot\application\base\GenericService.class
+com\mybot\application\base\GenericServiceImp.class
+com\mybot\application\user\UserServiceImp.class
+com\mybot\application\email\EmailSender.class
+com\mybot\application\search\RabbitmqService.class
+com\mybot\application\user\UserService.class
